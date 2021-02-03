@@ -1,0 +1,9 @@
+**/!.gitkeep
+data/records/*
+data/config.json
+data/excludes.txt
+data/cookies.txt
+
+*.zip
+.DS_Store
+.idea

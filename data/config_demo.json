@@ -1,0 +1,7 @@
+{
+  "username":"",
+  "password":"",
+  "grade_group_robot_mapping": {
+    "20": "https://oapi.dingtalk.com/robot/send?access_token="
+  }
+}
